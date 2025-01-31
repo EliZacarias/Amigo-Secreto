@@ -4,14 +4,18 @@
 
 El proyecto Amigo Secreto es una aplicación web que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para seleccionar un amigo de la lista. 
 Este proyecto tiene como objetivo fortalecer las habilidades en lógica de programación y manipulación del DOM en JavaScript.
-
+![Amigo Secreto](img/image.png)
 ## Funcionalidades
 
 - **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible al hacer clic en el botón "Adicionar".
+![Función Agregar](img/imageAniadir.png)
+
 - **Validar entrada**: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+![Validacion](img/imageError.png)
+
 - **Visualizar la lista**: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
-
+![Sortear](img/imageSortear.png)
 ## Cómo usarlo
 
 1. Clona este repositorio en tu máquina local.
